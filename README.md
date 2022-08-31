@@ -1,6 +1,6 @@
 # Astor-MiR
 
-Project created during apprenticeship in ASTOR Poznan 2022.
+Intralogistics demo project created during apprenticeship in ASTOR Poznan 2022.
 
 # Project tasks
 
@@ -16,7 +16,7 @@ Project created during apprenticeship in ASTOR Poznan 2022.
 
 # Project components
 
-- MiR 100 - cooperative mobile robot with a load capacity of up to 100 kg:
+- MiR 100 - cooperative mobile robot (AMR - Autonomous Mobile Robot) with a load capacity of up to 100 kg:
 	
 	<img src="screenshots/mir100.png" width="475" height="317">
 
@@ -36,7 +36,8 @@ Project created during apprenticeship in ASTOR Poznan 2022.
 
 # Demonstration video
 
-	[demo_video](https://youtu.be/8ByWWWsOIjM)
+	<https://youtu.be/8ByWWWsOIjM>
+	<a href="https://youtu.be/8ByWWWsOIjM">link</a>
 
 # How to use (tutorial in Polish)
 
