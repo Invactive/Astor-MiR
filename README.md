@@ -4,13 +4,17 @@ Project created during apprenticeship in ASTOR Poznan 2022.
 
 # Project tasks
 
+:heavy_check_mark: - MiR REST API queries used to get data from robot and manipulate with PLC registers
+
 :heavy_check_mark: - MySQL read/write data from robot, PHPMyAdmin web tool
 
 :heavy_check_mark: - Window app with live camera view, current informations about robot state, buttons responsible for calling robot to particular place and battery percentage graph refreshed every 30 seconds
 
-:x: - Check connection with MySQL database, ESP32CAM and MiR100 robot
+:heavy_check_mark: - QR codes recognition combined with robot manipulation (MiR moves to a point according to QR code data)
 
-# Project includes
+:x: - Check connection with MySQL database, ESP32CAM and MiR100 robot (to improve)
+
+# Project components
 
 - MiR 100 - cooperative mobile robot with a load capacity of up to 100 kg:
 	
