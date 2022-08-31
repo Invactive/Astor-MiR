@@ -36,10 +36,7 @@ Intralogistics demo project created during apprenticeship in ASTOR Poznan 2022.
 
 # Demonstration video
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-
-	![Youtube video](https://youtu.be/8ByWWWsOIjM)
+[Youtube video](https://youtu.be/8ByWWWsOIjM).
 
 # How to use (tutorial in Polish)
 
