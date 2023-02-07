@@ -1,6 +1,6 @@
 # Astor-MiR
 
-Intralogistics demo project created during apprenticeship in ASTOR Poznan 2022.
+Intralogistics demo project implemented during apprenticeship in ASTOR Poznan 2022.
 
 # Project tasks
 
