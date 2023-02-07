@@ -20,7 +20,7 @@ Intralogistics demo project implemented during apprenticeship in ASTOR Poznan 20
 	
 	<img src="screenshots/mir100.png" width="475" height="317">
 
-- Web aplication made using PySimpleGUI:
+- Desktop aplication made using PySimpleGUI:
 
 	![App_window1](screenshots/Window1.png)
 
