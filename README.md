@@ -12,7 +12,7 @@ Intralogistics demo project implemented during apprenticeship in ASTOR Poznan 20
 
 :heavy_check_mark: - QR codes recognition combined with robot manipulation (MiR moves to a point according to QR code data)
 
-:x: - Check connection with MySQL database, ESP32CAM and MiR100 robot (to improve)
+:x: - Check connection with MySQL database, ESP32CAM and MiR100 robot (to implement)
 
 # Project components
 
