@@ -43,10 +43,10 @@ def getRobotOverview(db, cursor):
         print("Error with getting maps - code 400.")
         print("Invalid ordering or Invalid filters or Wrong output fields or Invalid limits.")
     except ue.Error404:
-        print("Error with getting maps - code 404.")
+        print("Error with getting robot overview - code 404.")
         print("Not found.")
     except ue.ErrorUnknown:
-        print("Error with getting maps.")
+        print("Error with getting robot overview.")
         print("Error not defined.")
     finally:
         getRobotStatus.close()
@@ -348,9 +348,3 @@ def getErrorLogs(db, cursor):
         finally:
             getErrorReports.close()
     print(f'Added {len(listOfErrorLogsIDS)} error logs to database.')
-
-
-
-
-
-
